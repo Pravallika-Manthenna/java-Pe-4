@@ -46,5 +46,21 @@ public class FindOccurenceOfWordsTest {
 //Assert
         assertEquals( "Empty String not accepted" ,result);
     }
+    @Test
+    public void givenStringContainsSpecialCharacterShouldReturnErrorMessage(){
+//Arrange
+//Act
+        String result = findOccurenceOfWords.findWords("@","");
+//Assert
+        assertNotEquals(" ",result);
+    }
+    @Test
+    public void givenStringContainsIntegerShouldReturnErrorMessage(){
+//Arrange
+//Act
+        String result = findOccurenceOfWords.findWords("123","");
+//Assert
+        assertNotEquals(" ",result);
+    }
 }
 

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3561d66f-2205-457f-9416-c04b6072c631" name="Default Changelist" comment="" />
+    <list default="true" id="3561d66f-2205-457f-9416-c04b6072c631" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/TransposeString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -39,9 +47,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="1020">
+              <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#353#354#0" expanded="true" />
                 <element signature="e#418#419#0" expanded="true" />
                 <element signature="e#459#460#0" expanded="true" />
@@ -52,33 +61,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/CountOfCharacter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/TransposeStringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="397">
+              <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/SortingWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -86,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="329">
+              <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="e#204#205#0" expanded="true" />
                 <element signature="e#246#247#0" expanded="true" />
@@ -114,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/ReplaceString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -122,14 +111,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+            <state relative-caret-position="329">
+              <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
               <folding>
                 <element signature="e#228#229#0" expanded="true" />
                 <element signature="e#286#287#0" expanded="true" />
                 <element signature="e#329#330#0" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -144,27 +142,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.groovy" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/TransposeStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/Sort.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/OccurenceOfWordsTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/OccurrencesOfWordsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/OccurrencesOfWord.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/FindOccurenceOfWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/RegularExpression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/CountOfCharacter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/ReplaceString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/SortingWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/CountOfCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java" />
       </list>
     </option>
   </component>
@@ -174,6 +175,7 @@
     <option name="width" value="1218" />
     <option name="height" value="832" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -274,6 +276,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -305,8 +308,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindOccurenceOfWordsTest">
-    <configuration name="FindOccurenceOfWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TransposeStringTest">
+    <configuration name="ReplaceStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Pe 4" />
       <extension name="coverage">
         <pattern>
@@ -315,13 +318,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.Pe4" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.FindOccurenceOfWordsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.ReplaceStringTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplaceStringTest.givenStringContainsSpecialCharacterShouldReturnErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Pe 4" />
       <extension name="coverage">
         <pattern>
@@ -330,13 +333,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.Pe4" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.RegularExpressionTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.ReplaceStringTest" />
+      <option name="METHOD_NAME" value="givenStringContainsSpecialCharacterShouldReturnErrorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Pe 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.Pe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.Pe4" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.TransposeStringTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressionTest.givenStringContainsEmptyAndNullStringShouldReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeStringTest.givenStringContainsIntegerShouldReturnErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Pe 4" />
       <extension name="coverage">
         <pattern>
@@ -345,14 +364,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.Pe4" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.RegularExpressionTest" />
-      <option name="METHOD_NAME" value="givenStringContainsEmptyAndNullStringShouldReturnFalse" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.TransposeStringTest" />
+      <option name="METHOD_NAME" value="givenStringContainsIntegerShouldReturnErrorMessage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressionTest.givenStringContainsEmptyStringShouldReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeStringTest.givenStringContainsSpecialCharacterShouldReturnErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Pe 4" />
       <extension name="coverage">
         <pattern>
@@ -361,24 +380,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.Pe4" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.RegularExpressionTest" />
-      <option name="METHOD_NAME" value="givenStringContainsEmptyStringShouldReturnFalse" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegularExpressionTest.givenStringContainsNullAndEmptyStringShouldReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Pe 4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.Pe4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.Pe4" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.RegularExpressionTest" />
-      <option name="METHOD_NAME" value="givenStringContainsNullAndEmptyStringShouldReturnFalse" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Pe4.TransposeStringTest" />
+      <option name="METHOD_NAME" value="givenStringContainsSpecialCharacterShouldReturnErrorMessage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -386,11 +389,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindOccurenceOfWordsTest" />
-        <item itemvalue="JUnit.RegularExpressionTest" />
-        <item itemvalue="JUnit.RegularExpressionTest.givenStringContainsNullAndEmptyStringShouldReturnFalse" />
-        <item itemvalue="JUnit.RegularExpressionTest.givenStringContainsEmptyAndNullStringShouldReturnFalse" />
-        <item itemvalue="JUnit.RegularExpressionTest.givenStringContainsEmptyStringShouldReturnFalse" />
+        <item itemvalue="JUnit.TransposeStringTest" />
+        <item itemvalue="JUnit.TransposeStringTest.givenStringContainsSpecialCharacterShouldReturnErrorMessage" />
+        <item itemvalue="JUnit.TransposeStringTest.givenStringContainsIntegerShouldReturnErrorMessage" />
+        <item itemvalue="JUnit.ReplaceStringTest" />
+        <item itemvalue="JUnit.ReplaceStringTest.givenStringContainsSpecialCharacterShouldReturnErrorMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -408,35 +411,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortingWordTest_givenStringContainsNullShouldReturnEmptyMessage - 2019.07.03 at 23h 43m 34s.xml">
-      <configuration name="SortingWordTest.givenStringContainsNullShouldReturnEmptyMessage" configurationId="JUnit" />
+    <history-entry file="SortingWordTest_givenStringContainsIntegersShouldReturnErrorMessage - 2019.07.04 at 14h 38m 46s.xml">
+      <configuration name="SortingWordTest.givenStringContainsIntegersShouldReturnErrorMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingWordTest - 2019.07.03 at 23h 43m 39s.xml">
+    <history-entry file="SortingWordTest_givenStringContainsIntegersShouldReturnErrorMessage - 2019.07.04 at 14h 39m 12s.xml">
+      <configuration name="SortingWordTest.givenStringContainsIntegersShouldReturnErrorMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingWordTest_givenStringContainsSpecialCharactersShouldReturnErrorMessage - 2019.07.04 at 14h 39m 55s.xml">
+      <configuration name="SortingWordTest.givenStringContainsSpecialCharactersShouldReturnErrorMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingWordTest - 2019.07.04 at 14h 40m 05s.xml">
       <configuration name="SortingWordTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularExpressionTest_givenStringContainsStringShouldReturnSortedString - 2019.07.03 at 23h 50m 49s.xml">
-      <configuration name="RegularExpressionTest.givenStringContainsStringShouldReturnSortedString" configurationId="JUnit" />
+    <history-entry file="FindOccurenceOfWordsTest_givenStringContainsSpecialCharacterShouldReturnErrorMessage - 2019.07.04 at 14h 43m 22s.xml">
+      <configuration name="FindOccurenceOfWordsTest.givenStringContainsSpecialCharacterShouldReturnErrorMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularExpressionTest_givenStringContainsStringShouldReturnFalse - 2019.07.03 at 23h 52m 36s.xml">
-      <configuration name="RegularExpressionTest.givenStringContainsStringShouldReturnFalse" configurationId="JUnit" />
+    <history-entry file="FindOccurenceOfWordsTest_givenStringContainsIntegerShouldReturnErrorMessage - 2019.07.04 at 14h 43m 52s.xml">
+      <configuration name="FindOccurenceOfWordsTest.givenStringContainsIntegerShouldReturnErrorMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularExpressionTest_givenStringContainsNullStringShouldReturnFalse - 2019.07.03 at 23h 55m 04s.xml">
-      <configuration name="RegularExpressionTest.givenStringContainsNullStringShouldReturnFalse" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegularExpressionTest_givenStringContainsEmptyStringShouldReturnFalse - 2019.07.03 at 23h 56m 47s.xml">
-      <configuration name="RegularExpressionTest.givenStringContainsEmptyStringShouldReturnFalse" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegularExpressionTest_givenStringContainsEmptyAndNullStringShouldReturnFalse - 2019.07.03 at 23h 58m 05s.xml">
-      <configuration name="RegularExpressionTest.givenStringContainsEmptyAndNullStringShouldReturnFalse" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegularExpressionTest_givenStringContainsNullAndEmptyStringShouldReturnFalse - 2019.07.03 at 23h 59m 03s.xml">
-      <configuration name="RegularExpressionTest.givenStringContainsNullAndEmptyStringShouldReturnFalse" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegularExpressionTest - 2019.07.03 at 23h 59m 10s.xml">
-      <configuration name="RegularExpressionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindOccurenceOfWordsTest - 2019.07.04 at 07h 58m 50s.xml">
+    <history-entry file="FindOccurenceOfWordsTest - 2019.07.04 at 14h 43m 59s.xml">
       <configuration name="FindOccurenceOfWordsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegularExpressionTest_givenStringContainsSpecialCharactersShouldReturnErrorMessage - 2019.07.04 at 14h 45m 49s.xml">
+      <configuration name="RegularExpressionTest.givenStringContainsSpecialCharactersShouldReturnErrorMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegularExpressionTest_givenStringContainsIntegerShouldReturnErrorMessage - 2019.07.04 at 14h 46m 24s.xml">
+      <configuration name="RegularExpressionTest.givenStringContainsIntegerShouldReturnErrorMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegularExpressionTest - 2019.07.04 at 14h 46m 29s.xml">
+      <configuration name="RegularExpressionTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -452,11 +455,11 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.328877" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32841823" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39973262" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -507,20 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Downloads/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -545,53 +534,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/TransposeStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#351#352#0" expanded="true" />
             <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -601,19 +551,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/OccurrencesOfWord.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/FindOccurenceOfWords.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -635,31 +572,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/CountOfCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/TransposeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/ReplaceString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/CountOfCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/SortingWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Pe4/TransposeString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/CountOfCharacterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="397">
+          <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/FindOccurenceOfWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/SortingWordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/RegularExpressionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/Pe4/ReplaceStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
         </state>
       </provider>
     </entry>

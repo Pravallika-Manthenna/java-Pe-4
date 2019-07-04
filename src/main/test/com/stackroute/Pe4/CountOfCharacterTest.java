@@ -56,6 +56,22 @@ public class CountOfCharacterTest {
 //Assert
     assertEquals("Empty Sentence or letter is not accepted",count);
   }
+  @Test
+  public void givenStringContainsIntegersShouldReturnErrorMessage(){
+//Arrange
+//Act
+    String count = countOfCharacter.countCharacter("123",' ');
+//Assert
+    assertNotEquals(" ",count);
+  }
+  @Test
+  public void givenStringContainsSpecialCharacterShouldReturnErrorMessage(){
+//Arrange
+//Act
+    String count = countOfCharacter.countCharacter("@",' ');
+//Assert
+    assertNotEquals(" ",count);
+  }
 }
 
 

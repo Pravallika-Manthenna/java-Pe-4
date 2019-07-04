@@ -45,6 +45,21 @@ public class SortingWordTest {
         String result= sortingWord.sortingwords("");
         //Assert
         assertEquals("String is empty", result);
-
+    }
+    @Test
+    public void givenStringContainsIntegersShouldReturnErrorMessage(){
+//Arrange
+//Act
+        String result = sortingWord.sortingwords("123");
+//Assert
+        assertNotEquals(" ", result);
+    }
+    @Test
+    public void givenStringContainsSpecialCharactersShouldReturnErrorMessage(){
+//Arrange
+//Act
+        String result = sortingWord.sortingwords("#");
+//Assert
+        assertNotEquals(" ", result);
     }
 }

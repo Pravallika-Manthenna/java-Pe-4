@@ -41,4 +41,20 @@ ReplaceString replaceString;
 //Assert
     assertEquals(null , word);
   }
+  @Test
+  public void givenStringContainsIntegerShouldReturnErrorMessage(){
+//Arrange
+//Act
+    String word= replaceString.stringreplace("123");
+//Assert
+    assertNotEquals(" ", word);
+  }
+  @Test
+  public void givenStringContainsSpecialCharacterShouldReturnErrorMessage(){
+//Arrange
+//Act
+    String word= replaceString.stringreplace("@");
+//Assert
+    assertNotEquals(" ", word);
+  }
 }

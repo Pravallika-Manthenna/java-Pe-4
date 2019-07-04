@@ -41,6 +41,22 @@ public class TransposeStringTest {
         assertEquals("Empty string not accepted", result);
 
     }
+    @Test
+    public void givenStringContainsIntegerShouldReturnErrorMessage(){
+//Arrange
+//Act
+        String result = transposeString.transpose("123");
+//Assert
+        assertNotEquals(" ", result);
+    }
+    @Test
+    public void givenStringContainsSpecialCharacterShouldReturnErrorMessage(){
+//Arrange
+//Act
+        String result = transposeString.transpose("!");
+//Assert
+        assertNotEquals(" ", result);
+    }
 
 }
 

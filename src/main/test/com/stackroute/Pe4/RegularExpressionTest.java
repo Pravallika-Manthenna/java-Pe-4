@@ -75,6 +75,22 @@ public class RegularExpressionTest {
         boolean result= regularExpression.matchingStringChecker(null, "");
         //Assert
         assertFalse( result);
-
     }
+    @Test
+    public void givenStringContainsSpecialCharactersShouldReturnErrorMessage(){
+//Arrange
+//Act
+        boolean result = regularExpression.matchingStringChecker("#","");
+//Assert
+        assertNotEquals(" ", result);
+    }
+    @Test
+    public void givenStringContainsIntegerShouldReturnErrorMessage(){
+//Arrange
+//Act
+        boolean result = regularExpression.matchingStringChecker("123","");
+//Assert
+        assertNotEquals(" ", result);
+    }
+
 }
